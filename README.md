@@ -1,36 +1,38 @@
-# 👋 ¡Hola, soy Juan Pablo Zuluaga Galindo!
+# 👋 Hi, I'm Juan Pablo Zuluaga Galindo!
 
-## Estudiante de Ingeniería de Sistemas y Computación | UNAL Colombia
+## Systems Engineering Student | UNAL Colombia
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-pablo-zuluaga-galindo-937065274/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-zuluaga-galindo-937065274/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jzuluagaga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jzuluagaga@unal.edu.co)
 
 </div>
 
-Enfocado en **desarrollo de soluciones web innovadoras** y **computación en la nube**. Me apasiona crear software que genere impacto real mientras continúo creciendo profesionalmente.
+Focused on **innovative web development** and **cloud computing**. Passionate about creating software that delivers real impact while continuing to grow professionally.
 
 ---
 
-## 💻 Desarrollo de Software
+## 💻 Software Development
 
-### Lenguajes
+### Languages
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
-### Frameworks & Tecnologías
+### Frameworks & Technologies
 
 <div align="center">
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,7 +52,7 @@ Enfocado en **desarrollo de soluciones web innovadoras** y **computación en la 
 
 ---
 
-## 🛠️ Herramientas
+## 🛠️ Tools
 
 <div align="center">
 
@@ -62,48 +64,48 @@ Enfocado en **desarrollo de soluciones web innovadoras** y **computación en la 
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### Proyecto Principal
+### Main Project
 
 - **[Familia Komforta](https://github.com/jzuluagaga/Familia-Kormforta)** (2025) ⭐  
   Next.js 14, Django REST Framework, TypeScript, Python  
-  Plataforma de e-commerce completa con personalización de productos, carrito de compras, checkout con Bold, sistema de administración y panel de gestión
+  Full e-commerce platform with product customization, shopping cart, Bold payment integration, admin system and management panel
 
-### Desarrollo Web
+### Web Development
 
 - **[Zula Digital Marketing](https://zulaweb.com)** (2025)  
   Next.js, React, TypeScript, GitHub Pages  
-  Sitio web de marketing diseñado por componentes
+  Component-based marketing website
 
-- **[Ferretería Tecnillaves](https://tecnillavesferreteria.com/)** (2025)  
+- **[Tecnillaves Hardware Store](https://tecnillavesferreteria.com/)** (2025)  
   HTML, CSS, JavaScript  
-  +1000 vistas mensuales
+  +1000 monthly views
 
-### Aplicaciones
+### Applications
 
 - **Mini e-commerce Boutique Rachel** (2025)  
   Spring Boot, MySQL, HTML/CSS  
-  Gestión de clientes, pedidos y productos con base de datos relacional
+  Customer, order and product management with relational database
 
-- **Videojuego "Bolirana"** (2024)  
+- **"Bolirana" Videogame** (2024)  
   Python, Pygame  
-  Simulación 2D del juego tradicional con físicas básicas
+  2D simulation of traditional game with basic physics
 
 ---
 
-## 📚 Aprendizaje Continuo
+## 📚 Continuous Learning
 
-- 🇨🇳 **Chino Mandarín** - HSK1 (Instituto Confucio 2025-II)
-- 🇬🇧 **Inglés** - B2 First (Cambridge)
-- ☁️ **Computación en la Nube**
-- 💡 **Algoritmos y Estructuras de Datos**
+- 🇨🇳 **Mandarin Chinese** - HSK1 (Confucius Institute 2025-II)
+- 🇬🇧 **English** - B2 First (Cambridge)
+- ☁️ **Cloud Computing**
+- 💡 **Algorithms and Data Structures**
 
 ---
 
-## 💼 Habilidades Blandas
+## 💼 Soft Skills
 
-✨ Proactivo | 🤝 Trabajo en equipo | 💪 Resiliente | 📋 Responsable | 🎯 Liderazgo
+✨ Proactive | 🤝 Teamwork | 💪 Resilient | 📋 Responsible | 🎯 Leadership
 
 ---
 
